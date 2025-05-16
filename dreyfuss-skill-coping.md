@@ -1,4 +1,30 @@
-Part I: Phenomenology and skills:
+Abstract
+Part I: five levels of skill. Beginner, advanced beginner, competence, proficiency and expert. 
+Part II
+ 2. The perceptual Noema. 
+    Husserl: how the object appears to conciousness. The idea.  
+    Follendal: the meaning
+    Gurwitsch: the percept (it's a thing)
+ 3. Husserl conceptualization of perception: as interpretive sense
+      Meaning is an act of conciousness. [But we give meaning or is given to us?]
+      There is that paralelism with Husserl and Frege
+      In Frege the idea (our mental imagery), the sense (the concept), the reference (the thing)
+      Following that Husserl talks about : the act of giving meaning (-> idea). But here this might be the biggest contribution. 
+        He claims that this act, this intention, thinking from some perspective/category extracts the meaning from the object:
+ 4.     The ideal meaning of Hus is the reference in Frege
+ 5.     The filling act in Hus is a complement of the reference in Freg where the act is the realization that the idea/sense (Hus/Fre) is
+ 6.     filled with the reference. [This reminds me to MPont that critiques how can the idea match the thing if it wasn't extracted prior? (not sure I'm quoting )]
+ 7.     
+  
+
+
+
+
+
+
+
+
+# Part I: Phenomenology and skills:
 
 In this chapter the author argues that there are 5 levels of coping. When a skill is used such, chess for example.
 Novice. Learns the rules and only behave by applying them. It lacks the ability to see the task as a whole and progress to him means following, each rule. His performance is meassured (by him) by how well he follows the rules.  
@@ -15,9 +41,9 @@ Expert:
 
 
 
-Part II: Intentionality and mind
+# Part II: Intentionality and mind
 
-2. The perceptual Noema:
+## 2. The perceptual Noema:
    47 - Is the intentional correlate of perceptual conciousness
    [[[ the noema is the intentional correlate of the noesis, is how the object appears to conciousness ]]]
    In husserl intentionality is the defining feature of consciusness, and intentionality is defined by the necessary correlation between noesis and noema.  
@@ -26,10 +52,13 @@ Part II: Intentionality and mind
        as a concept: Follendal
           More in line with Husserls interpretation
        as a percept: Gurwitsch
-          is not perceived but it given in perception and selected with a special act directed to the perceptual object directed to the perceptual object 
+          is not perceived but is given in perception and selected with a special act directed to the perceptual object 
           It's used by many other authors and used as a criticism to Husserl by Merlau Ponty 
             It points more to a fundamental gap in Husserls theory, more than it's critique.
-  # Husserl conceptualization of perception, as interpretive sense.         
+            
+            [I guess like gestalt is considered as a thing out there we can reach with that special act]
+            
+###  Husserl conceptualization of perception, as interpretive sense.         
      Husser calls meaning to the content of the act of conciousness that give meaning to the sounds (those that are expression)
      There's a parallele between Frege and Husserl
        H -> act of giving meaning - ideal meaning - sense act of fulfillment of the meaning
