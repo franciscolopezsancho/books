@@ -1,20 +1,19 @@
 Abstract
-Part I: five levels of skill. Beginner, advanced beginner, competence, proficiency and expert. 
-Part II
- 2. The perceptual Noema. 
-    Husserl: how the object appears to conciousness. The idea.  
-    Follendal: the meaning
-    Gurwitsch: the percept (it's a thing)
- 3. Husserl conceptualization of perception: as interpretive sense
-      Meaning is an act of conciousness. [But we give meaning or is given to us?]
-      There is that paralelism with Husserl and Frege
-      In Frege the idea (our mental imagery), the sense (the concept), the reference (the thing)
-      Following that Husserl talks about : the act of giving meaning (-> idea). But here this might be the biggest contribution. 
-        He claims that this act, this intention, thinking from some perspective/category extracts the meaning from the object:
- 4.     The ideal meaning of Hus is the reference in Frege
- 5.     The filling act in Hus is a complement of the reference in Freg where the act is the realization that the idea/sense (Hus/Fre) is
- 6.     filled with the reference. [This reminds me to MPont that critiques how can the idea match the thing if it wasn't extracted prior? (not sure I'm quoting )]
- 7.     
+# Part I: five levels of skill. Beginner, advanced beginner, competence, proficiency and expert. 
+## Part II
+### The perceptual Noema. 
+Husserl: how the object appears to conciousness. The idea.  
+Follendal: the meaning
+Gurwitsch: the percept (it's a thing
+### Husserl conceptualization of perception: as interpretive sense
+Meaning is an act of conciousness. [But we give meaning or is given to us?]
+There is that paralelism with Husserl and Frege
+In Frege the idea (our mental imagery), the sense (the concept), the reference (the thing)
+Following that Husserl talks about : the act of giving meaning (-> idea). But here this might be the biggest contribution:      - this act, this intention, thinking from some perspective/category produces the meaning from the object
+
+  The ideal meaning of Hus is the sense in Frege
+  The filling act in Hus is a complement of the reference in Freg where the act is the realization that the idea/sense (Hus/Fre) is filled with the reference. [This reminds me to MPont that critiques how can the idea match the thing if it wasn't extracted prior? (not sure I'm quoting )]
+  Signifying act => sense (as intermediary) => Fulfilling act. 
   
 
 
