@@ -14,7 +14,13 @@ Following that Husserl talks about : the act of giving meaning (-> idea). But he
   The ideal meaning of Hus is the sense in Frege
   The filling act in Hus is a complement of the reference in Freg where the act is the realization that the idea/sense (Hus/Fre) is filled with the reference. [This reminds me to MPont that critiques how can the idea match the thing if it wasn't extracted prior? (not sure I'm quoting )]
   Signifying act => sense (as intermediary) => Fulfilling act. 
+  PROBLEM: how does this work in perception? the sense of a perception. How does the meaning relates to the filling act? Let's put it in contrast with thinking. I can think of the moon, imagine it. Then reach the sense/meaning and finally compare if that can be applied to what I see when looking at the moon. But when dealing with the perception. How can I separate the meaning or the signifying act. Looking at this printed word, I perceive them as white over black, with some shape, letters and even some meaning. How then can I say if those senses fulfil their act. I'm tempted to say that I extracted, or found those senses out of looking at these letters and looking at them from different angles, so to say. color, shape and the meaning inside them. It seems the direction is the opposite. There's no fulfilling act, at the end of the process. It's the beginning. But we could ask, can we come back with those senses to the things themselves. I'd say yes.  [why?] 
   
+  Unable to separate this two, fulfilling act and signifyng we experience in the perception, Husserl creates the trascendental phenomenology where only the sense, the signifying side is dealt with. Forgetting about the object, the fullfilling part he aims to create a pure theory that can be consistent, logical. That can be trusted for it doesn't corrode itself in the river of time.  
+  It makes sense that the intentionallity then takes such a first plane in his theory. Losing the object as final test of truth leaves its vacuum in its place. The intention of the signifying act is therefore pure. 
+ 
+### Gurtwisch incarnation of perception: The noema as intuitive sense. 
+
 
 
 
@@ -87,10 +93,10 @@ Expert:
      57
      Husserl can't find a way to reconciliate the Fregean concept of sense, atemporal and inmatirial to this 'incarnate meaning' [see above] 
 
-     Unable to resolve this conondrum Husserl makes virtue from its necessity and create the trascendental phenomenology. A theory that only deals with the ideal contents. The sense, whether there's an object that fulfills that sense or not. 
+     Unable to resolve this conondrum Husserl makes virtue from its necessity and create the trascendental phenomenology. A theory that only deals with the ideal contents, the sense, whether there's an object that fulfills that sense or not. 
 
   # Gurwitsch and the incarnation of perception: The noema as intuitive sense.
-    Gurwitsh like the Gestalt agree that what we perceive is an incarnate form. As Gurwitsch puts it "it's a system of functional significances...all interdependent...there's no unifying principle in addition to the matters unified"   
+    Gurwitsh like the Gestalt agree that what we perceive is an incarnate form. As Gurwitsch puts it "it's a system of functional significances...all interdependent...there's no unifying principle in addition to the matters unified"   :
     The sense, by G, of what's experience is a different sense on Huss. 
     This intuitive sense that could fulfill and complete the interpretive sense would complete Huss theory. If not contradictory of course. [[these two can be names as the raw perception and the structured/idealized perception]]  
     63 
