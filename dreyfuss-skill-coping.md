@@ -20,6 +20,7 @@ Following that Husserl talks about : the act of giving meaning (-> idea). But he
   It makes sense that the intentionallity then takes such a first plane in his theory. Losing the object as final test of truth leaves its vacuum in its place. The intention of the signifying act is therefore pure. 
  
 ### Gurtwisch incarnation of perception: The noema as intuitive sense. 
+G confuses Husserl percecptual adumbration (seen an object always from a perspective, therefore incomplete) with the sense (in Husserl). This leads G to propose to noema as an the object seen from a perspective. From a side, from a category. Confusing the sense with the object itself and considering them different sides from the same coin. Noema in G is incarnated in the thing. 
 
 
 
