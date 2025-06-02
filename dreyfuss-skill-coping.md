@@ -23,6 +23,10 @@ Following that Husserl talks about : the act of giving meaning (-> idea). But he
 G confuses Husserl percecptual adumbration (seen an object always from a perspective, therefore incomplete) with the sense (in Husserl). This leads G to propose to noema as an the object seen from a perspective. From a side, from a category. Confusing the sense with the object itself and considering them different sides from the same coin. Noema in G is incarnated in the thing. 
 
 
+### From trascendental to existencial phenomenology
+
+Gur disolved the difference between Matter/form (like the Gestalt did), mind/body paving the way for the next thinker, Heidegger, to abandon the severed matter and form for a being in the world. And interaction, radically different.
+
 
 
 
