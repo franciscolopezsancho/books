@@ -27,6 +27,9 @@ G confuses Husserl percecptual adumbration (seen an object always from a perspec
 
 Gur disolved the difference between Matter/form (like the Gestalt did), mind/body paving the way for the next thinker, Heidegger, to abandon the severed matter and form for a being in the world. And interaction, radically different.
 
+## 3. Heidegger's critique of the husser/Searle view of intentionality
+   H. critiques that there's no intentional content as such as there is no real/radical/original division of subject intending an object via a sense(Frege's sense). The relation/division subject/object is creation a posteriori to the radical relation of both, which is of the object at a hand, expertise coping, flow. 
+
 
 
 
@@ -142,7 +145,7 @@ Expert:
 
 
 ## Heid critique of the Husserl/Searle account of intentionality
-   The first argument against cartesian rationality (held by Huss) tradition of Hei is to present it as a deattached version of everyday involment [if everyday involment means flow]
+   The first argument against cartesian rationality (held also by Huss) tradition of Hei is to present it as a deattached version of everyday involment [if everyday involment means flow]
    But the real critique, to Huss, comes from two opposit accounts of intentionality:
    - intentional content action vs intentional content of thought. 
    He states that being-in-the-world doesn't involve intentional content at all. Intentional content in the context of a subject with that intentional content and an object [I understand intentional content as sense]. Those components can't be isolated. 
