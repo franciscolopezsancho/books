@@ -28,10 +28,11 @@ G confuses Husserl percecptual adumbration (seen an object always from a perspec
 Gur disolved the difference between Matter/form (like the Gestalt did), mind/body paving the way for the next thinker, Heidegger, to abandon the severed matter and form for a being in the world. And interaction, radically different.
 
 ## 3. Heidegger's critique of the husser/Searle view of intentionality
-   H. critiques that there's no intentional content as such as there is no real/radical/original division of subject intending an object via a sense(Frege's sense). The relation/division subject/object is creation a posteriori to the radical relation of both, which is of the object at a hand, expertise coping, flow. 
+   H. critiques that there's no intentional content as such as there is no real/radical/original division of subject intending an object via a sense(Frege's sense). The relation/division subject/object is a creation a posteriori to the radical relation of both, which is of the object at a hand, expertise coping, flow. 
+  Authors like Davidson and Searle might agree on the above but they add that in any case, activity, there's a mental side of it. For D. it's a goal, that correlates to the activity, for S. it's a self-reference, [some ego? or just a point or reference?]. Heid. defends the opposite. An activity in flow has not a mental goal, nor self-referenciality. Only a "broken" activity has it. Both assume Being-in-the-world. 
 
 
-
+### Heid. account of primordial intentionality
 
 
 
@@ -56,7 +57,7 @@ Expert:
 
 # Part II: Intentionality and mind
 
-## 2. The perceptual Noema:
+## 2. The perceptual Noema
    47 - Is the intentional correlate of perceptual conciousness
    [[[ the noema is the intentional correlate of the noesis, is how the object appears to conciousness ]]]
    In husserl intentionality is the defining feature of consciusness, and intentionality is defined by the necessary correlation between noesis and noema.  
@@ -168,7 +169,7 @@ Expert:
      ### Heid account of primordial intentionality
      Heid. opposese to those two view that Huss could have but that Searle exposes. 
      1. Acting and acted upon are phenomenologically distinguible
-     2.? 
+     2. [not 100% sure this is point 2] Follows from point 1 that the experience of acting and the bodily experience are distinct. They belong to two different domains. 
      Heid opposes that
      1. the experience of acting must be the experience of *my* causing the action
      2. the experience of acting must represent the conditions of the satisfaction of the action.
