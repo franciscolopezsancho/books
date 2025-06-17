@@ -33,6 +33,24 @@ Gur disolved the difference between Matter/form (like the Gestalt did), mind/bod
 
 
 ### Heid. account of primordial intentionality
+    Heid negates the idea of a diff body/mind and so the intention like a mental pointer. Where Huss sees intentionality Heid. see the aboutness, minding your own businnes without a mental goal, or self-referenciality. These two can appear but are not the fundamental fabric of reality. 
+      [I was thinking that Heid forgets the fact? that we can be inmersed in thinking and that is also an activity we can lose ourselves in. Meaning that the diff object/mind is not a second degree of experience by of first order. I very much doubt Heid. never thought about this so what's it's take? 
+        -> you are absorved in world of significance
+        -> extract from chatgpc Heid would say“You do not think about thoughts; you dwell in a mode of openness where things show up meaningfully.”. 
+        -> read? "what is called thinking" Heid. ] 
+
+### Being-in-the-world as original[me: radical] intentionality
+    Every activity has a background, such when we stop the flow rest in it. [is there a beginning, initial activity that has no background]
+    The background is the circunspection/care we take when dealing with the world, as a servant or a lord. 
+    The background is not a theoretical or practical knowledge, it orient us before any of the two. It's a more basic kind of knowledge.
+
+## Tode's account of the nonconceptual perceptual knowledge and it's relations with thought
+  Todes defines perception as containing undeterminancy, as the need, the lack of something we are pull toward to. 
+  Only when the need is fulfilled, we realise, now determined, what was pulling from us. 
+    This is the same as the goal on the activities defined above. 
+    To this unconcious pull, called MP *motor intentionality*. That is, embodied coping without conscious goal.
+      Tode expands further this idea on a perception that informs, set our spacio temporal field. Back and front, past and future are built upon the embodiement. Not from a conscious, self-reflecting act. 
+    
 
 
 
@@ -171,7 +189,7 @@ Expert:
      1. Acting and acted upon are phenomenologically distinguible
      2. [not 100% sure this is point 2] Follows from point 1 that the experience of acting and the bodily experience are distinct. They belong to two different domains. 
      Heid opposes that
-     1. the experience of acting must be the experience of *my* causing the action
+     1. the experience of acting must be the experience of *me* causing the action
      2. the experience of acting must represent the conditions of the satisfaction of the action.
      
      Searle points out that action implies self-awereness. Heidg. denies that [me too, think flow]. MerlPont would put it like our body gets suggestiongs from the situation to get the optimal relation, regarding the performing action. [true that when learning we keep thinking and trying to get the right feeling. For example, learning tennis. When learned already we skip the thinking but the feeling stays, and we cope with it] 
@@ -180,7 +198,7 @@ Expert:
 
      Searle applies to perception the same analysis that applies to action; Seeing a flower, he starts, has two components the experience of seeing the flower and the flower [can't see how this can be possible. The analysis, how can he reach the flower knowledge without the experience first] 
 
-     on 82[Seeing is like a dialog where the thing keeps offering different potentials sides and I inspect them]
+     on 82[Seeing is like a dialog where the thing keeps offering different potentials sides and I keep inspect them]
 
      MP would argue, against Searle, that the experience it's our experience of our openness to the world. Does that 
 
@@ -208,7 +226,7 @@ Expert:
    Heid argues that whether the activity is absorved or directed[Drey says deliberate] there's a background the orients it, that makes it possible.  
    It's the absorved activity A that provides that unnoticed background for the activity B, deliberate or not. 
    Searle and Heid share the idea of background but they are quite different:
-   - In Searle the background are the non intentional capabilities and practices that make intentionality possible. Adding that they hold an self-referencial content.
+   - In Searle the background are the non intentional capabilities and practices that make intentionality possible. Adding that they hold a self-referencial content.
    - In Heid. There's no self-referencial content and they are considered intentional. This activities [note they are not capabilities/practices] are a continual and provide a ontological trascendence. [I would call this an informed perspective]. This background is the circunspection of what we have in front in order to serve or mandate us what to do, how, and when.  
      - Being-in-the-world is the constant adjusting to the circumstance. The accommodation to each activity. [I'd say that the background is born from our familiarity with certain circumstance, from a child to which lacks any familiarity (and also self-referencial). 
 
@@ -229,7 +247,7 @@ Expert:
    In moving to fulfil the need the determination of the perceived is not fully form, only when the need is fulfilled we realize that that was what the need was pointing at. [Again is not a logical if then but the gravity that pull us, in the dark room a vague shadow only when we touch it we realize is a coushing] Then you realize that you were looking at a coushing all along. Informing your previous perceptions. There's a retrofitting. Recalling your vague impressions now they might be blurry but the object it's recognized as a coushing.  
    This retrofitting, argues Todes, is the same with skillful coping. We don't have a clear picture of the goal of the activity, it's at the end when looking back that we infuse the actions with the goal. Same as with perception. 
 
-   MerlP call to this embodiment of the action without concious goal but directed, motor intentionality. 
+   MerlP call to this embodiment of the action without conscious goal but directed, motor intentionality. 
    Todes also agrees with MerlP about the distinction of the expected condition of satifaction and ongoing satisfaction when coping.  
    Todes extends this motor intentionality with the idea of a perceptual knowledge that it's added in the ongoing coping 
    How the conceptual is born from the non-conceptual it's bases in that both the coping and "trying" (p95) live in a spaciotemporal field produced? by the body. 
