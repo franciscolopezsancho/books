@@ -50,7 +50,12 @@ Gur disolved the difference between Matter/form (like the Gestalt did), mind/bod
     This is the same as the goal on the activities defined above. 
     To this unconcious pull, called MP *motor intentionality*. That is, embodied coping without conscious goal.
       Tode expands further this idea on a perception that informs, set our spacio temporal field. Back and front, past and future are built upon the embodiement. Not from a conscious, self-reflecting act. 
-    
+  Todes explains the existence, raise of concepts, when we skip one step on our perception process.
+  1. prepare to percive (situate ourselves in the right spot) 2. prepare the object [maybe might be done with the same movement, like getting closer to an ant] getting the book under the light [again, or us out of the light] 3. perceive
+  If 3. doesn't come to fruition then concepts arise.  
+
+  Similar to the activity that discover its goal, or the need its original pull, the concepts that arise with the imagination when 3. seemed to have been there all along. 
+  Tode holds that imagination and perception are not irreducible one to the other, 
 
 
 
