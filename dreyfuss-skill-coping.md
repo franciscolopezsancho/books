@@ -1,4 +1,4 @@
-Abstract
+Abstract (second)
 # Part I: five levels of skill. Beginner, advanced beginner, competence, proficiency and expert. 
 ## Part II
 ### The perceptual Noema. 
@@ -57,9 +57,14 @@ Gur disolved the difference between Matter/form (like the Gestalt did), mind/bod
   Similar to the activity that discover its goal, or the need its original pull, the concepts that arise with the imagination when 3. seemed to have been there all along. 
   Tode holds that imagination and perception are not irreducible one to the other, 
 
+# Overcoming the myth of mental
+## the indubitability of a mental Given
+Descartes or McDowell bet for it but phenomenology bets for an embodied knowledge
+## is it perception or action always conceptual
+Drey would argue that like bike wheels we might use them to learn but we ditch them later. Worth noting infants learn by imitation.
+Here McDowell repeats what Heid would insist on: we found always engaged with the world. We are always open to the worl. That's our radical openness. [I could extend that Huss when using the intentionalitly probably (maybe only posibly) had this in sight. 
 
-
-
+--------------------------
 
 # Part I: Phenomenology and skills:
 
