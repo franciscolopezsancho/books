@@ -63,6 +63,13 @@ Descartes or McDowell bet for it but phenomenology bets for an embodied knowledg
 ## is it perception or action always conceptual
 Drey would argue that like bike wheels we might use them to learn but we ditch them later. Worth noting infants learn by imitation.
 Here McDowell repeats what Heid would insist on: we found always engaged with the world. We are always open to the worl. That's our radical openness. [I could extend that Huss when using the intentionalitly probably (maybe only posibly) had this in sight. 
+## the space of motivation
+avoiding the idealistic or objectic approaches to explain our actions, and activities. If not all the world. MerP talks about motivations, being a body attunement learned until mastering the skiful coping that let us with an open responsiveness. 
+## non coceptual coping and the justification of knowledge.
+Some thinkers defend that the perception in order to justify knowledge it [the perception] has to be all the way conceptual. Others contra argue that perception roles is not to justify knowledge. [I think perception can only help to link some knowledge to another knowledge. That is I make a prediction, the moon will be there at this time and when so I look and say. Yes there is. (or not) ... can't really defend this.] 
+## Where concepts come in
+Todes argues that the embodied perception conforms our reality, so much so, that the concepts like up, down, back, front, future, past, [hard, easy] come from first this relation with our surrounding. The world we live in. Concepts come from these original experiences, they are set up before we can think about them. [I guess that oppossed to Plato, these ideas don't flote in the ether, are not directly reachable by our minds, but first produced by our openness to the world. Our interaction. Our experience. They live inside it, and if they insist in being ethernal, and not drawn in the stream of time, might be not because the live there but because we throw them to such speed that their make the time stop.[not sure what this means :) but I think might be worth following the analogy. Just like Ortegas thrown arrow without predestined goal]] 
+
 
 --------------------------
 
@@ -312,7 +319,7 @@ Expert:
       McDowell argues that this way then the Given can't justify any conceptual belief.   
       Drey and the fenomenologist contra argue that perception doesn't justify knowledge, what it does is to give meaning to our activities. It's not the role of the perception to justify knowldge [on the contrary, it seems to be the lack of expert coping, maybe the pure form of perception, is what makes room for knowledge as idealist defend. As a theory.] 
    #### 7. Where concepts come in 
-   question1, [McDowell? page121]. How can perception do its justificatory job if nonceptual given is converted in give with conceptual content
+   question1, [McDowell? page121]. How can perception do its justificatory job if nonceptual given is converted in given with conceptual content
    question2. Todes, how conceptual arises from non conceptual content 
     Todes start answering by stating that the world as open to us in perception is related to our bodies. There is back and front, up and down. Those are structures not that we impose or overimpose to the world but how reality is, radically. In this sense, the embodied perception is normative or the reality itself, of the experience.  
     Then it divides this embodied perception in 12 categories just as Kant did in its 'critic'. 
